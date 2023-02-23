@@ -1,0 +1,60 @@
+.container{
+    margin: 0%;
+    padding: 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: blueviolet;
+    width: auto;
+    height:750px;
+    background-image: url(image4.jpg);
+    
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 40px 0px 20px 10px;
+       
+}
+
+ul{
+    display: flex;
+        
+}
+.b1{
+    padding: 20px 50px;
+    border-style: solid;
+    background-color: rgb(226, 43, 211);
+    border-radius:30px;
+}
+.par{
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+.b2{
+    padding: 20px 60px;
+    margin: 50px;
+    border-radius: 45%;
+    background-color: rgb(18, 219, 18);
+    border-style: none;
+}
+
+
+.b3{
+    border-radius:70%;
+}
+.b4{
+    display: flex;
+    justify-content:flex-end;
+    padding: 0px 0px 5px 0px;
+    margin: 0px 0px 20px;
+    border-radius: 50%;
+}
+
+
+   
+
